@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Aashish Hathiramani</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">\n<b>Maecenas</b> et lorem eu ipsum scelerisque mollis a eget diam. Suspendisse non eleifend mauris. Vestibulum id turpis eu elit sollicitudin finibus non sit amet purus. Morbi et sapien lobortis, pharetra ante nec, posuere mauris. Vivamus suscipit sapien non metus faucibus gravida.
+        \n<b>Aenean</b> leo sem, ullamcorper nec interdum eget, feugiat non massa. Proin sed ipsum vitae magna ornare tincidunt. Proin vel felis aliquam, finibus ex id, dictum neque. Nunc congue nibh vel tellus tincidunt ullamcorper. Quisque at ligula dapibus, scelerisque est placerat, maximus magna.
+        \n<b>Ut tempus</b>, massa non dapibus sagittis, metus mi feugiat dolor, id mattis ante felis vitae metus. Maecenas ac eros commodo, lacinia libero vitae, gravida neque. Mauris gravida dui magna, eget sodales lacus euismod sit amet. Nullam ac lorem a metus aliquam malesuada. Nulla eu tempus tortor, ac pretium lorem. Integer laoreet elementum sagittis.
+        \n<b>Nulla</b> rutrum velit elit. Nulla eget tincidunt urna. Cras a justo non ligula semper efficitur. Sed hendrerit metus odio. Nullam viverra, nulla sed tincidunt volutpat, felis nibh vestibulum nibh, semper auctor diam nibh nec erat. In blandit lorem lacus, id placerat nisl tempus non. Aliquam at purus purus. Morbi efficitur accumsan posuere.
+        \n<b>Aliquam</b> lacinia, lacus in rutrum accumsan, ante quam eleifend elit, ut blandit metus dui cursus arcu. Quisque et mollis nunc. Etiam bibendum mi eu felis pharetra hendrerit. Maecenas varius cursus diam non viverra. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent id lacus sed urna ornare consectetur. Nunc ullamcorper sapien non semper pellentesque. Proin dignissim faucibus augue ac consequat.\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
